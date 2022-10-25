@@ -4,23 +4,28 @@
 <meta charset="utf-8"> 
 <title>Персональна сторінка</title> 
 <style>  
-
+ .biography:link{ 
+    color:green; 
+} 
+.biography:visited{
+    color: purple;
+}
 .novadays{
 color:gold; 
 }  
 .novadays:visited{
 color: peru; 
 }  
-#friends:link{
+.friends:link{
     color: royalblue; 
 }
-#friends:visited{
+.friends:visited{
     color: indigo; 
 }
-#gallery:link{
+.gallery:link{
     color: yellow; 
 } 
-#gallery:visited{
+.gallery:visited{
     color: orange; 
 }
 
@@ -33,10 +38,10 @@ color: peru;
     теперешніх друзяів, та готовий до нових знайомств. Сподіваюсь на цікаве та продуктивне навчання в університеті.   
 </p>   
 <ul>
-<li ><a id="#biography" href="biography.html">Автобіографія</a> </li>
+<li ><a class="biography" href="biography.html">Автобіографія</a> </li>
 <li ><a class="novadays" href="novadays.html">Сьогодення</a> </li>
-<li ><a id="#friends" href="friends.html">Друзі</a> </li>
-<li ><a id="#gallery" href="gallery.html">Галерея</a> </li>
+<li ><a class="friends" href="friends.html">Друзі</a> </li>
+<li ><a class="gallery" href="gallery.html">Галерея</a> </li>
 </ul>
 </body>
 </html>
