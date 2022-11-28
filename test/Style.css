@@ -27,7 +27,8 @@
 section{
   display: flex; 
   flex-flow: row wrap;
-}
+} 
+
 
 .first {
  background-color: black;
