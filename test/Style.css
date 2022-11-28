@@ -28,9 +28,6 @@ section{
   display: flex; 
   flex-flow: row wrap;
 }
-body :nth-child(3){
-  flex :2;
-}
 
 .first {
  background-color: black;
