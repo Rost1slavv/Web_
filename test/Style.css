@@ -24,28 +24,11 @@
  }
 }
 
-
-.item {
- float: left;
- position: relative;
+section{
+  display: flex; 
+  flex-flow: row wrap;
 }
 
-.item-wrap {
- position: relative;
- border: 2px solid green;
- border-radius: 5px;
- margin: 10px;
-}
-
-.item-wrap div {
- position: absolute;
- top: 0;
- right: 0;
- padding: 10px;
- font-size: 18px;
- font-family: monospace;
- border-radius: 5px;
-}
 
 .first {
  background-color: black;
