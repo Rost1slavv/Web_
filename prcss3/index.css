@@ -67,14 +67,12 @@ p{
 
 }
 ul{ 
-    width: max-content;
     display:flex; 
     flex-direction: row; 
     flex-wrap: wrap; 
     margin: 5px;
 } 
 li{     
-width: max-content;
 align-items: center;
 display: flex; 
     margin: 5px;
