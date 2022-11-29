@@ -72,6 +72,10 @@ ul{
     flex-direction: row; 
     flex-wrap: wrap;
 } 
-li{
-    display: flex;
+li{   
+    display: flex; 
+    border: 1px solid black; 
 }
+    
+ 
+    
