@@ -1,1 +1,33 @@
+.biography:link{ 
+    color:green; 
+} 
+.biography:visited{
+    color: purple;
+}
+.novadays:link{
+color:gold; 
+}  
+.novadays:visited{
+color: powderblue; 
+}  
+.friends:link{
+    color: royalblue; 
+}
+.friends:visited{
+    color: indigo; 
+}
+.gallery:link{
+    color: yellow; 
+} 
+.gallery:visited{
+    color: red; 
+} 
+h1{ 
+    font-size: 24px;   
+    text-align: center;
 
+
+} 
+p{
+    font-size: 120%;
+}
