@@ -86,11 +86,6 @@ article h2 {
     padding: 20px 0;
 }
 
-a {
-    font-size: 34px;
-    padding: 20px 0;
-}
-
 @media (min-width: 992px) {
     .row{
         flex-wrap: wrap;
