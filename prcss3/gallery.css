@@ -47,7 +47,7 @@ div{
   text-align: center;
   
 } 
-.item{
+.flexitem{
   display: flex;
   flex-direction: column;
   width: max-content;
