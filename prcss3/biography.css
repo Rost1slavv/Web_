@@ -22,27 +22,27 @@ ul li a:focus{
 #p1 {
 background-color: black;
 color: red; 
-width: 600px;
+
     }
 #p2 {
 background-color: green;
 color: black; 
-width: 600px;
+
         }
 #p3 {
 background-color: aqua;
 color: blueviolet; 
-width: 600px;
+
         }
 #p4 {
 background-color: gray;
 color: darkblue; 
-width: 600px;
+
         }
 #p5 {
  background-color: purple;
  color: black; 
- width: 600px;
+
         }
 body {
             font-size: 120%;
