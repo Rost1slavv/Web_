@@ -79,7 +79,7 @@ article h2 {
     align-items: stretch;
 }
 
-.item {
+.flexitem {
     margin: 5px;
     border: 1px solid black;
     border-radius: 5px;
