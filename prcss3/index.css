@@ -67,7 +67,7 @@ p{
 
 }
 ul{ 
-    width: 100;
+    width: max-content;
     display:flex; 
     flex-direction: row; 
     flex-wrap: wrap; 
