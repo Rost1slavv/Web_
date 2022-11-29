@@ -18,6 +18,11 @@
   .col-sm-12 {
       width: 100%;
   }
+} 
+img{
+  width: auto;
+  height: auto;
+  max-width: 300px;
 }
  h1{
   text-align: center; 
