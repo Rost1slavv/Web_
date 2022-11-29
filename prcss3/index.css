@@ -70,10 +70,13 @@ ul{
     width: 100;
     display:flex; 
     flex-direction: row; 
-    flex-wrap: wrap;
+    flex-wrap: wrap; 
+    
 } 
-li{   
-    display: flex; 
+li{     
+width: max-content;
+align-items: center;
+display: flex; 
     border: 1px solid black; 
 }
     
