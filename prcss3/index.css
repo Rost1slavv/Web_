@@ -66,12 +66,16 @@ p{
     text-align: center;
 
 } 
+.flexitem{
+    display: block;
+    margin: 15px;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+}
 a { 
-    display: flex;
-    font-size: 43px;
-    padding: 20px 0; 
-    border-radius: 5px; 
-    border: 1px;
+    font-size: 25px;
+   
 }
 
     
