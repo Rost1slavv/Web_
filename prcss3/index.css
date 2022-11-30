@@ -84,9 +84,11 @@ ul{
 li{    
 width: 100%; 
 align-items: center;
-display: flex; 
-    margin: 5px; 
-    border: 1PX;  
+display: flex;  
+display: block;
+margin: 5px; 
+ border: 1PX;   
+padding: 20px 0; 
 
 }
     
