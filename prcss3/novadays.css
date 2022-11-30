@@ -34,9 +34,7 @@ h2{
     text-align: center;
 } 
 
-.flexitem{
-  flex: 1;
-}
+
 @media (min-width: 992px) {
   .col-lg-6 {
       width: 50%;

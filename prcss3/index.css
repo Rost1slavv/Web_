@@ -81,7 +81,8 @@ ul{
     margin: 5px; 
 
 } 
-li{     
+li{    
+width: 100%; 
 align-items: center;
 display: flex; 
     margin: 5px; 
