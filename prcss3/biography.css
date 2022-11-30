@@ -78,9 +78,37 @@ article h2 {
     display: flex;
     align-items: stretch;
 }
+.flexitem1{ 
+background-color: black;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px 0;
+} 
+.flexitem2{ 
+    background-color: green;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px 0;
+}  
+.flexitem3{ 
+    background-color: aqua;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px 0;
+}  
+.flexitem4{ 
+    background-color: gray;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px 0;
+}  
+.flexitem5{  
 
-.flexitem{ 
-background-color: aqua;
+    background-color:purple;
     margin: 5px;
     border: 1px solid black;
     border-radius: 5px;
