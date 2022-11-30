@@ -21,7 +21,8 @@ ol li ol li:nth-child(5)
 {
   cursor: pointer;
 } 
-h1{
+h1{ 
+  display: flex;
     text-align: center; 
     font-size: 22px;
 }
@@ -29,6 +30,7 @@ a:nth-of-type(1){
     font-style: italic;
 }
 h2{
+  display: flex;
     text-align: center;
 } 
 
