@@ -22,7 +22,6 @@ ol li ol li:nth-child(5)
   cursor: pointer;
 } 
 h1{ 
-  display: flex;
     text-align: center; 
     font-size: 22px;
 }
